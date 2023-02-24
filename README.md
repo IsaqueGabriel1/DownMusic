@@ -3,7 +3,7 @@
 <ol>
   <li>Formatos suportados: mp3 e mp4.</li>
   <li>Tecnologias: HTML, CSS, NODEJS.</li>
-  <li>Bibliotecas: <a href="https://www.npmjs.com/package/ytdl-core">ytdl-core</a>, <a href="https://www.npmjs.com/package/yt-converter">yt-converter</a>, <a href="https://expressjs.com/pt-br/">express</a>, <a href="https://ejs.co/">ejs</a>, <a href="https://www.npmjs.com/package/body-parser">body-parser</a>.</li>
+  <li>pacotes: <a href="https://www.npmjs.com/package/ytdl-core">ytdl-core</a>, <a href="https://www.npmjs.com/package/yt-converter">yt-converter</a>, <a href="https://expressjs.com/pt-br/">express</a>, <a href="https://ejs.co/">ejs</a>, <a href="https://www.npmjs.com/package/body-parser">body-parser</a>.</li>
 </ol>
 <hr/>
 
