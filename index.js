@@ -18,7 +18,7 @@ app.post('/baixarMusica', controllersMusica.musicaPost)
 app.post('/baixarVideo', controllersVideo.videoPost)
 //rota principal
 app.get("/", (req, res) => {
-    res.render("downTrue")
+    res.render("index.html")
 })
 
 

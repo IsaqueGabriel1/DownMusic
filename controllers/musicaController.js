@@ -4,7 +4,7 @@ exports.musicaPost = (req, res) => {
     const titulo = "";
     const url = req.body.txtURL;
     const user = req.body.txtUser
-    ytdl.getInfo('https://www.youtube.com/watch?v=YQHsXMglC9A').then(info => {
+    ytdl.getInfo(url).then(info => {
         yt.convertAudio({
             url: url,
             itag: 140,
